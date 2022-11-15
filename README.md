@@ -6,4 +6,5 @@ All project files are found in Covid19 Copy 2.
 
 ![image](https://user-images.githubusercontent.com/100171698/201812989-4cc66229-b26c-4503-bc48-57e01c29bfa3.png)
 
-![image](https://user-images.githubusercontent.com/100171698/201813121-81b87af9-6019-4b48-adc4-0bb53a42846e.png)
+![image](https://user-images.githubusercontent.com/100171698/201813205-63ea9795-9889-4fc9-9dbe-e2049ad3f565.png)
+
